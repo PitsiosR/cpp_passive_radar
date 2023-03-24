@@ -6,4 +6,4 @@ A benchmark for resample_poly method
 ``g++ -o main -std=c++17 -fopenmp  main.cpp``
 
 ### Run
-``g++ -o test main.cpp``
+``g++ -o main main.cpp``
